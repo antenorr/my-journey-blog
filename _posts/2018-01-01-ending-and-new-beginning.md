@@ -11,7 +11,12 @@ This blog will be a daily journal of my journey to becoming a fluent Software En
 
 What's most important is that i capture my personal journey along with my learning journey (does that make sense?) - I will find a way to capture what, how, when and what i'm feeling and going through as i travel the road of learning and exploring all that is required to be a respected and contributing Software Engineer.  I think such an approach when looked at from the perspective of the entire human being is of greater value- the learning within personal context and the personal context within the learning..
 
-I made a promise to myself that i would have the very first entry of my daily blog created today, and i have accomplished that.  Though a rocky path in the attempt to have it lauched on Github, and even more shaky understanding of the jekyll platform and conventions used to code up a site - i am determined to work on this blog step by step, and little by little until it presents in the manner i wish it to.
+I made a promise to myself that i would have the very first entry of my daily blog created today, and i have accomplished that.  Though a rocky path in the attempt to have it lauched on Github, and even more shaky understanding of the jekyll platform and conventions used to code up a site in the language - i am determined to work on this blog step by step, and little by little until it presents in the manner i wish it to.
+
+(I you have stumbled upon this site prior to it's "good-looking transformation" - stick around it gets better - i promise
+from social media links, to personal profile, pdf resume and great tip and lessons ---- I say just wait, it's coming!)
+
+"Believe it"
 
 
 
