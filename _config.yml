@@ -24,7 +24,7 @@ baseurl: "my-journey-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-twitter_username: @thekidroudy
+twitter_username: thekidroudy
 github_username:  antenorr
 
 # Build settings
