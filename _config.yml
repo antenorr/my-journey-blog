@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   journey to becoming a professional Software Engineer.  It will also serve
   as an article site so that i may help others learn programming 
   concepts that i myself struggled with, or just find amazing! Welcome.
-baseurl: "my-journey-blog" # the subpath of your site, e.g. /blog
+baseurl: /"my-journey-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: thekidroudy
@@ -34,15 +34,15 @@ plugins:
 
 
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-      values:
-        layout: "post"
-        title: "My title"
-        author: "Roudy Antenor"
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "posts"
+#       values:
+#         layout: "post"
+#         title: "My title"
+#         author: "Roudy Antenor"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
